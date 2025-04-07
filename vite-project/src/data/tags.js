@@ -1,0 +1,21 @@
+const tags = {
+  View: "div",
+  Text: "p",
+  TextInput: "input",
+  Button: "button",
+  ScrollView: "div",
+  FlatList: "ul",
+  SectionList: "ul",
+  TouchableOpacity: "button",
+  TouchableHighlight: "button",
+  TouchableWithoutFeedback: "div",
+  SafeAreaView: "div",
+  StatusBar: "meta",
+  Image: "img",
+  Pressable: "button",
+  Modal: "dialog",
+  Switch: "input type='checkbox'",
+  ActivityIndicator: "div with loading animation",
+  onClick: "onclick",
+};
+export default tags;
